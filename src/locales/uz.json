@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Asosiy",
+    "about": "Haqimda",
+    "skills": "Ko'nikmalar",
+    "experience": "Ta'lim",
+    "projects": "Loyihalar",
+    "blog": "Blog",
+    "contact": "Aloqa",
+    "resume": "CV yuklab olish",
+    "changeLang": "Tilni o'zgartirish",
+    "toggleTheme": "Mavzuni almashtirish"
+  },
+  "hero": {
+    "greeting": "Salom, men",
+    "name": "Bektemirov Hojiakbar",
+    "role": "Frontend Developer",
+    "description": "HTML, CSS, JavaScript va React texnologiyalari yordamida zamonaviy, tezkor va estetik jihatdan mukammal veb-saytlar yarataman.",
+    "viewProjects": "Loyihalarni ko'rish",
+    "downloadCv": "CV yuklab olish",
+    "cvNotice": "CV fayli hali joylanmagan. Iltimos, public/cv.pdf faylini joylang!",
+    "status": "Yangi loyihalar uchun ochiqman",
+    "photoChangeTip": "O'z rasmingizni qo'yish uchun: rasmingizni public/profile.jpg deb nomlab almashtiring"
+  },
+  "about": {
+    "badge": "Shaxsiy ma'lumotlar",
+    "title": "Men haqimda",
+    "subtitle": "Keling, yaqindan tanishamiz",
+    "bio": "Salom! Men Bektemirov Hojiakbar, 19 yoshli Frontend Developerman. Hozirda IT Live Academy'da frontend dasturlash kursida bilim olmoqdaman. HTML, CSS, JavaScript va React texnologiyalari bilan zamonaviy, responsive veb-saytlar yarataman. Bo'sh vaqtimda futbol o'ynashni yaxshi ko'raman.",
+    "ageLabel": "Yosh:",
+    "ageValue": "19 yosh (2007-yil 8-mart)",
+    "locationLabel": "Manzil:",
+    "locationValue": "Sirdaryo viloyati, Sardoba tumani, 5A Yangiqishloq MFY",
+    "educationLabel": "Ta'lim:",
+    "educationValue": "IT Live Academy — Frontend Development kursi",
+    "hobbyLabel": "Qiziqish:",
+    "hobbyValue": "Futbol o'ynash",
+    "downloadResume": "CV faylini yuklab olish",
+    "contactMe": "Bog'lanish"
+  },
+  "skills": {
+    "badge": "Texnik bilimlar",
+    "title": "Ko'nikmalarim",
+    "subtitle": "Zamonaviy veb-ishlanmalar uchun foydalanadigan asosiy texnologiyalarim",
+    "level": "Daraja",
+    "allSkills": "Barcha ko'nikmalar"
+  },
+  "experience": {
+    "badge": "O'sish yo'li",
+    "title": "Ta'lim va Tajriba",
+    "subtitle": "Professional dasturchi sifatida shakllanish bosqichlarim",
+    "present": "Hozirgi vaqtda",
+    "student": "O'quvchi (Student)",
+    "highlightsTitle": "O'rganilgan asosiy yo'nalishlar:"
+  },
+  "projects": {
+    "badge": "Portfolio",
+    "title": "Mening Loyihalarim",
+    "subtitle": "O'zim yaratgan va muvaffaqiyatli ishga tushirilgan amaliy veb-loyihalar",
+    "filterAll": "Barchasi",
+    "filterReact": "React Loyihalar",
+    "filterLanding": "Landing sahifalar",
+    "filterJs": "JavaScript",
+    "liveDemo": "Live Demo",
+    "github": "GitHub Repo",
+    "viewMore": "GitHub profilimda ko'proq ko'rish",
+    "exactRepoBadge": "Aniq Repo",
+    "profileRepoBadge": "GitHub Profil"
+  },
+  "blog": {
+    "badge": "Maqolalar",
+    "title": "Foydali Maqolalar",
+    "subtitle": "Dasturlash sirlari, tajribalar va o'rganish jarayonidagi xulosalarim",
+    "readMore": "Batafsil o'qish",
+    "backToBlogs": "Barcha maqolalarga qaytish",
+    "minRead": "daqiqa mutolaa"
+  },
+  "contact": {
+    "badge": "Aloqaga chiqing",
+    "title": "Men bilan bog'laning",
+    "subtitle": "Yangi loyihalar, takliflar yoki shunchaki do'stona muloqot uchun hamisha ochiqman",
+    "nameLabel": "Ismingiz",
+    "namePlaceholder": "Ismingizni kiriting",
+    "emailLabel": "Email manzilingiz",
+    "emailPlaceholder": "emailingiz@example.com",
+    "messageLabel": "Xabaringiz",
+    "messagePlaceholder": "Loyiha haqida yoki taklifingizni yozing...",
+    "sendButton": "Xabarni yuborish",
+    "sending": "Yuborilmoqda...",
+    "successMessage": "Rahmat! Xabaringiz muvaffaqiyatli yuborildi. Tez orada javob beraman.",
+    "errorMessage": "Iltimos, barcha maydonlarni to'g'ri to'ldiring!",
+    "directContact": "To'g'ridan-to'g'ri aloqa",
+    "addressTitle": "Manzilim",
+    "socialsTitle": "Ijtimoiy tarmoqlar"
+  },
+  "footer": {
+    "rights": "Barcha huquqlar himoyalangan.",
+    "createdWith": "zamonaviy texnologiyalar bilan tayyorlandi",
+    "backToTop": "Yuqoriga"
+  },
+  "photoModal": {
+    "title": "Profil rasmini o'zgartirish",
+    "desc": "O'z suratingizni ko'rsatish juda oddiy:",
+    "step1": "1. O'zingizning chiroyli suratingizni oling (masalan, JPG yoki PNG).",
+    "step2": "2. Uni 'profile.jpg' deb nomlang.",
+    "step3": "3. 'portifolio/public/' papkasi ichiga joylang va mavjud fayl o'rniga almashtiring.",
+    "step4": "4. Sahifani yangilang — darhol sizning suratingiz aks etadi!",
+    "close": "Tushundim"
+  }
+}

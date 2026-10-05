@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Education",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact",
+    "resume": "Download CV",
+    "changeLang": "Switch Language",
+    "toggleTheme": "Toggle Theme"
+  },
+  "hero": {
+    "greeting": "Hello, I am",
+    "name": "Bektemirov Hojiakbar",
+    "role": "Frontend Developer",
+    "description": "Building modern, fast, and aesthetically pleasing web interfaces using HTML, CSS, JavaScript, and React.",
+    "viewProjects": "View Projects",
+    "downloadCv": "Download CV",
+    "cvNotice": "CV file is not uploaded yet. Please add public/cv.pdf!",
+    "status": "Available for new projects",
+    "photoChangeTip": "To add your photo: rename your image to public/profile.jpg and replace it"
+  },
+  "about": {
+    "badge": "Personal Profile",
+    "title": "About Me",
+    "subtitle": "Get to know me better",
+    "bio": "Hello! I am Bektemirov Hojiakbar, a 19-year-old Frontend Developer. Currently learning frontend development at IT Live Academy. I craft modern, responsive web experiences with HTML, CSS, JavaScript, and React. In my free time, I love playing football.",
+    "ageLabel": "Age:",
+    "ageValue": "19 years old (March 8, 2007)",
+    "locationLabel": "Location:",
+    "locationValue": "Syrdarya region, Sardoba district, 5A Yangiqishloq MFC",
+    "educationLabel": "Education:",
+    "educationValue": "IT Live Academy — Frontend Development Course",
+    "hobbyLabel": "Interest:",
+    "hobbyValue": "Playing football",
+    "downloadResume": "Download CV",
+    "contactMe": "Get in touch"
+  },
+  "skills": {
+    "badge": "Technical Arsenal",
+    "title": "My Skills",
+    "subtitle": "Core technologies I leverage to build robust web solutions",
+    "level": "Proficiency",
+    "allSkills": "All Skills"
+  },
+  "experience": {
+    "badge": "Learning Path",
+    "title": "Education & Milestones",
+    "subtitle": "My journey into becoming a professional software engineer",
+    "present": "Present",
+    "student": "Student Developer",
+    "highlightsTitle": "Core topics mastered:"
+  },
+  "projects": {
+    "badge": "Showcase",
+    "title": "Featured Projects",
+    "subtitle": "Real-world web applications and landing pages I've built",
+    "filterAll": "All Projects",
+    "filterReact": "React Apps",
+    "filterLanding": "Landing Pages",
+    "filterJs": "JavaScript",
+    "liveDemo": "Live Demo",
+    "github": "GitHub Repo",
+    "viewMore": "View more on GitHub",
+    "exactRepoBadge": "Source Repo",
+    "profileRepoBadge": "GitHub Profile"
+  },
+  "blog": {
+    "badge": "Articles",
+    "title": "Insights & Stories",
+    "subtitle": "Reflections on coding, developer journey, and web technologies",
+    "readMore": "Read Article",
+    "backToBlogs": "Back to all articles",
+    "minRead": "min read"
+  },
+  "contact": {
+    "badge": "Let's Connect",
+    "title": "Contact Me",
+    "subtitle": "Feel free to reach out for collaboration, opportunities, or a friendly chat",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Enter your name",
+    "emailLabel": "Your Email",
+    "emailPlaceholder": "your.email@example.com",
+    "messageLabel": "Your Message",
+    "messagePlaceholder": "Tell me about your project or inquiry...",
+    "sendButton": "Send Message",
+    "sending": "Sending...",
+    "successMessage": "Thank you! Your message has been sent successfully. I will get back to you soon.",
+    "errorMessage": "Please fill out all fields correctly!",
+    "directContact": "Direct Channels",
+    "addressTitle": "Location",
+    "socialsTitle": "Social Links"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "createdWith": "built with modern web technologies",
+    "backToTop": "Back to Top"
+  },
+  "photoModal": {
+    "title": "How to change your profile picture",
+    "desc": "Adding your personal photo is very easy:",
+    "step1": "1. Pick your favorite portrait photo (JPG or PNG).",
+    "step2": "2. Rename the file to 'profile.jpg'.",
+    "step3": "3. Place it inside the 'portifolio/public/' directory, replacing the existing photo.",
+    "step4": "4. Refresh your browser — your photo will be displayed instantly!",
+    "close": "Got it"
+  }
+}
